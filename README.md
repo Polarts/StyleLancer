@@ -7,8 +7,8 @@ This project is meant to be a repository of the Freelancer design system styles 
 ## UI References
 I've captured the game's UI elements and uploaded to [google drive](https://drive.google.com/drive/folders/1QqNM2uPIGwOfCld0ccxQcrnsbR5MW9Y3?usp=sharing). However, the best way to study the animations and behavior ov the elements is to run the game and take notes.
 
-## Languages and Frameworks
+## Tech Stack
 - Demo views: HTML + CSS
 - Styles: SCSS
-
+- Architecture: [Storytelling](https://eladsc.dev/2019/11/29/css-story-architecture-talk/)
 
